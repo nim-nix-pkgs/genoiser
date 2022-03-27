@@ -11,6 +11,7 @@
   inputs.src-genoiser-master.ref   = "refs/heads/master";
   inputs.src-genoiser-master.owner = "brentp";
   inputs.src-genoiser-master.repo  = "genoiser";
+  inputs.src-genoiser-master.dir   = "";
   inputs.src-genoiser-master.type  = "github";
   
   inputs."hts".owner = "nim-nix-pkgs";
