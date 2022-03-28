@@ -11,7 +11,6 @@
   inputs.src-genoiser-v0_2_5.ref   = "refs/tags/v0.2.5";
   inputs.src-genoiser-v0_2_5.owner = "brentp";
   inputs.src-genoiser-v0_2_5.repo  = "genoiser";
-  inputs.src-genoiser-v0_2_5.dir   = "";
   inputs.src-genoiser-v0_2_5.type  = "github";
   
   inputs."hts".owner = "nim-nix-pkgs";
